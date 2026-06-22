@@ -13,7 +13,6 @@ A decoupled client-server web application transitioning a monolithic C++ object-
 * **Role-Based Access Control (RBAC):** Distinct dashboards and permissions for Students and Librarians.
 * **Complex Transaction Logic:** Automated time-based fine calculations using Unix epoch time (`mktime`, `difftime`).
 * **Admin Tools:** Full CRUD operations for Librarians to manage inventory and user accounts safely.
-* **Time Travel Simulator:** Frontend testing tool to simulate future dates to test backend overdue logic.
 
 ## To Run it Locally
 
