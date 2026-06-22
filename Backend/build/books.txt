@@ -1,0 +1,10 @@
+101,The Great Gatsby,F. Scott Fitzgerald,Scribner,1925,9780743273565,Available
+102,To Kill a Mockingbird,Harper Lee,JB Lippincott & Co.,1960,9780061120084,Available
+103,1984,George Orwell,Secker & Warburg,1949,9780451524935,Available
+104,Moby Dick,Herman Melville,Harper & Brothers,1851,9781503280786,Available
+105,Pride and Prejudice,Jane Austen,TEgerton,1813,9781503290563,Available
+106,The Catcher in the Rye,JD Salinger,Little Brown and Company,1951,9780316769488,Available
+107,The Hobbit,JRRTolkien,George Allen & Unwin,1937,9780547928227,Available
+108,Brave New Times,Robert Tennyson,Oswal,1998,9780060850536,Available
+109,Crime and Punishment,Fyodor Dostoevsky,The Russian Messenger,1866,9780486415871,Available
+111,Sapiens,Yuval Noah Harrari,RandomHouse,2013,9123803748,Available
