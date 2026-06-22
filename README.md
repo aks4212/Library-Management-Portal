@@ -1,4 +1,4 @@
-# Full-Stack Library Management System
+# Library Management System
 
 A decoupled client-server web application transitioning a monolithic C++ object-oriented system into a modern web architecture. 
 
@@ -15,9 +15,9 @@ A decoupled client-server web application transitioning a monolithic C++ object-
 * **Admin Tools:** Full CRUD operations for Librarians to manage inventory and user accounts safely.
 * **Time Travel Simulator:** Frontend testing tool to simulate future dates to test backend overdue logic.
 
-## How to Run Locally
+## To Run it Locally
 
-### 1. Start the C++ Backend
+### 1. Starting the C++ Backend
 ```bash
 cd Backend/build
 cmake --build .
